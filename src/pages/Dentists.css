@@ -1,0 +1,36 @@
+/* src/pages/Dentists.css */
+.dentists-section {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .dentists-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-top: 20px;
+  }
+  
+  .dentist-card {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dentist-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .dentist-card p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  @media (max-width: 768px) {
+    .dentists-list {
+      grid-template-columns: 1fr;
+    }
+  }
+  
