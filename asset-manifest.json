@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Dental-Clinic-Management-System/static/css/main.55c681fb.css",
-    "main.js": "/Dental-Clinic-Management-System/static/js/main.cf207a27.js",
+    "main.js": "/Dental-Clinic-Management-System/static/js/main.c51c47f8.js",
     "static/media/image 3.webp": "/Dental-Clinic-Management-System/static/media/image 3.dcdb7ea8f5021e2fc18f.webp",
     "static/media/image 2.avif": "/Dental-Clinic-Management-System/static/media/image 2.e588c2dc88876d744e03.avif",
     "static/media/OIP.jpeg": "/Dental-Clinic-Management-System/static/media/OIP.91ef4de9ab5dc386a899.jpeg",
     "static/media/download.jpeg": "/Dental-Clinic-Management-System/static/media/download.8420f1ed34d59ee4f5b2.jpeg",
     "index.html": "/Dental-Clinic-Management-System/index.html",
     "main.55c681fb.css.map": "/Dental-Clinic-Management-System/static/css/main.55c681fb.css.map",
-    "main.cf207a27.js.map": "/Dental-Clinic-Management-System/static/js/main.cf207a27.js.map"
+    "main.c51c47f8.js.map": "/Dental-Clinic-Management-System/static/js/main.c51c47f8.js.map"
   },
   "entrypoints": [
     "static/css/main.55c681fb.css",
-    "static/js/main.cf207a27.js"
+    "static/js/main.c51c47f8.js"
   ]
 }
